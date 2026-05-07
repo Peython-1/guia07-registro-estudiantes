@@ -231,3 +231,16 @@ footer {
         font-size: 25px;
     }
 }
+.descripcion {
+    margin-top: 10px;
+    font-size: 17px;
+    color: #e0e7ff;
+}
+
+tbody tr {
+    transition: 0.3s;
+}
+
+tbody tr:hover {
+    background-color: #eef2ff;
+}
